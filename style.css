@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(99, 218, 119) ;
+    text-align: center;
+}
+.child-div{
+    text-align: center;
+}
+figcaption{
+    color: floralwhite;
+    font-size: x-large;
+}
+figure{
+    font-size: 8px;
+
+    
+}
+input{
+    font-size: x-large;
+    
+}
+button{
+    font-size: large;
+    
+    
+}
+img{
+    border-radius: 50%;
+}
